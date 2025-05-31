@@ -5,13 +5,13 @@ Hallo ! Saya Ryani Dewitri Soumena
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Alex Pratama - Portfolio</title>
+  <title>Ryani Dewitri Soumena - Portfolio</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
     <nav>
-      <h1>Alex Pratama</h1>
+      <h1>Ryani Dewitri Soumena</h1>
       <ul>
         <li><a href="#about">Tentang</a></li>
         <li><a href="#projects">Proyek</a></li>
@@ -47,13 +47,13 @@ Hallo ! Saya Ryani Dewitri Soumena
 
   <section id="contact" class="section">
     <h2>Kontak</h2>
-    <p>Email: alex.pratama@example.com</p>
-    <p>LinkedIn: linkedin.com/in/alexpratama</p>
-    <p>GitHub: github.com/alexpratama</p>
+    <p>Email: ryanisoumena02@gmail.com</p>
+    <p>LinkedIn: linkedin.com/in/Ryani Soumena</p>
+    <p>GitHub: github.com/Ryani Soumena</p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Alex Pratama</p>
+    <p>&copy; 2025 Ryani Dewitri Soumena</p>
   </footer>
 </body>
 </html>
