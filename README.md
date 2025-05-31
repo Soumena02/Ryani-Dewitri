@@ -22,8 +22,8 @@ Hallo ! Saya Ryani Dewitri Soumena
 
   <section class="hero">
     <img src="assets/profile.jpg" alt="Foto Alex" class="profile-img" />
-    <h2>Front-End Developer</h2>
-    <p>Membangun website modern yang responsif dan ramah pengguna.</p>
+    <h2>Teknik Geologi</h2>
+    <p>Mempermudah mendetail pekerjaan saya dan membagikan appapun yang menjadi bagian dari pryek pekerjaan dan bermanfaat bagi yang lainnnya.</p>
   </section>
 
   <section id="about" class="section">
