@@ -57,3 +57,72 @@ Hallo ! Saya Ryani Dewitri Soumena
   </footer>
 </body>
 </html>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+  background: #ffffff;
+  color: #333;
+}
+
+header {
+  background: #007acc;
+  color: white;
+  padding: 1em 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+}
+
+nav h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 2em;
+  background: #f4f4f4;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.section {
+  padding: 2em;
+  max-width: 800px;
+  margin: auto;
+}
+
+.project {
+  background: #eef;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: 8px;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background: #007acc;
+  color: white;
+}
